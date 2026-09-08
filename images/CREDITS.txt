@@ -1,0 +1,26 @@
+Images in this folder, and how to credit them
+=============================================
+
+bauhaus-dessau.jpg
+  The Bauhaus building in Dessau, designed by Walter Gropius, 1925.
+  Photograph by Aufbacksalami, 2018.
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Bauhaus_Dessau_2018.jpg
+  If you use it, credit it: "Bauhaus Dessau, 2018, by Aufbacksalami. CC BY-SA 4.0."
+
+small-fry-1941.jpg
+  Album cover for "Small Fry", Decca Records, 1941.
+  License: Public domain (published in the US 1931-1963, copyright not renewed)
+  Source: https://commons.wikimedia.org/wiki/File:A-202_Small_Fry.jpg
+  Public domain means you can use it without permission. Crediting it is still good manners.
+
+Using your own image instead
+----------------------------
+Better. Use a photo you took, or something you made.
+If you take one from the internet, check the license first and credit it in your footer.
+Put the file in an images folder next to your index.html, then point at it:
+
+  <img src="images/your-file.jpg" alt="what the picture shows">
+
+Every image needs alt text that says what the picture SHOWS,
+not what it is. Not "image", not "photo1.jpg".

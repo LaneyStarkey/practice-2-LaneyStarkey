@@ -46,3 +46,9 @@ h2 {
 h3 {
     color: blue
 }
+footer {
+    background: black;
+    color: white;
+    border: 6px solid yellow;
+    height: 260px
+}

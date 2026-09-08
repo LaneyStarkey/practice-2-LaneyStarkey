@@ -8,3 +8,17 @@ nav {
     border: 6px solid black;
 }
 
+header {
+    background-color: blue;
+    color: azure;
+    border: 6px solid darkblue
+}
+
+img {
+    width: 420px;
+    height: 260px;
+    border: 6px solid white
+}
+h1 {
+    color:yellow
+}
